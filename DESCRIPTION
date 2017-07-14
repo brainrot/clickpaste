@@ -1,0 +1,17 @@
+Package: clickpaste
+Type: Package
+Title: mouse event and keyboard event
+Version: 0.2.0
+Author: Yu, Qiming
+Maintainer: Yu, Qiming <805968198@qq.com>
+Description: Using windows API to send mouse event and keyboard event.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+    Rcpp,
+    R6,
+    clipr
+LinkingTo: Rcpp
+Suggests: testthat
+RoxygenNote: 6.0.1

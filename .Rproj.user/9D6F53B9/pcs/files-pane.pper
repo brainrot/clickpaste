@@ -1,0 +1,9 @@
+{
+    "path" : "~/clickpaste",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
